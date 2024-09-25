@@ -26,10 +26,13 @@ Aplikasi **Time Zone Converter** ini dibuat menggunakan **Python** dan **Tkinter
 ## Cara Menggunakan
 
 1. Jalankan skrip Python dengan perintah berikut:
-2. Masukkan waktu yang ingin Anda konversi dalam format YYYY-MM-DD HH:MM
-3. Pilih zona waktu asal dari daftar zona waktu.
-4. Pilih zona waktu tujuan dari daftar zona waktu.
-5. Klik tombol Convert dan waktu yang telah dikonversi akan ditampilkan.
+   ```bash
+   python run.py
+   ```
+3. Masukkan waktu yang ingin Anda konversi dalam format YYYY-MM-DD HH:MM
+4. Pilih zona waktu asal dari daftar zona waktu.
+5. Pilih zona waktu tujuan dari daftar zona waktu.
+6. Klik tombol Convert dan waktu yang telah dikonversi akan ditampilkan.
 
 ## Contoh Penggunaan
 
